@@ -1,0 +1,9 @@
+{
+  "name": "genpark-lzw-compression-dictionary-coder-skill",
+  "version": "1.0.0",
+  "description": "Lempel-Ziv-Welch (LZW) dynamic dictionary lossless encoder and decoder",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
